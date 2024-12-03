@@ -1,6 +1,3 @@
-
-Academic work.
-
 [Senior Thesis: Applications of the Jones Polynomial.](https://github.com/user-attachments/files/17996567/Senior.Thesis.pdf)
 
 Advised by Zoltan Szabo.
